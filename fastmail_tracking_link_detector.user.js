@@ -4,6 +4,7 @@
 // @version      0.3
 // @description  Detect and highlight potential phishing links in Fastmail emails (obvious and suspected)
 // @author       You
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=fastmail.com
 // @match        https://app.fastmail.com/*
 // @grant        none
 // ==/UserScript==
